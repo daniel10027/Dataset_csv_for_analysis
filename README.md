@@ -1,6 +1,6 @@
 seaborn-data
 ============
-
+============
 Data repository for [seaborn](http://seaborn.pydata.org/) examples.
 
 **This is not a general-purpose data  archive.**
